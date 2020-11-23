@@ -31,7 +31,7 @@ class node{
     int data;
     node next;
 }
-class QLL{
+class Queues{
     node front=null;
     node rear=null;
     
